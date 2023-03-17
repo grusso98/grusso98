@@ -16,7 +16,7 @@
 <br/> 
 
 * :open_book: Pursuing MSc in Data Science @ [University of Milan-Bicocca](https://www.unimib.it/graduate/data-science)
-* :scroll: Research for my Master Thesis: Unsupervised Machine Learning for intrusion detection systems on distributed systems
+* :scroll: Research for my Master Thesis: Unsupervised Machine Learning for intrusion detection systems in distributed systems
 * :computer: Currently working on: Machine Learning based anomaly detection for cloud distributed applications @ [LTA Lab - University of Milan-Bicocca](https://lta.disco.unimib.it/)
 
 
