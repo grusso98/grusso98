@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://github.com/grusso98">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gianmarco+Russo;Data science+%7C+Msc+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+NLP+%7CML for cybersecurity" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=25&duration=6000&pause=2000&color=B522F7&width=435&lines=Gianmarco+Russo+%7C+MSc+Data+Science;NLP+%7C+Computer+Vision+%7C+ML+for+Cybersecurity;BSc+in+Computer+Engineering" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://violet-gae-65.tiiny.site">
