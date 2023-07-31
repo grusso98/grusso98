@@ -13,6 +13,7 @@
 <br/> 
 
 * :open_book: MSc in Data Science @ [University of Milan-Bicocca](https://www.unimib.it/graduate/data-science)
+*  :open_book: Bsc in Computer Engineering 
 * :scroll: Research for my Master Thesis: Unsupervised Machine Learning for intrusion detection systems in distributed systems
 
 
