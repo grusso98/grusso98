@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/grusso98">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&size=25&duration=6000&pause=2000&color=B522F7&multiline=false&width=435&lines=Gianmarco+Russo%7CMSc+Data+Science;NLP%7CComputer+Vision%7CML+for+CyberSec;+++++++BSc+in+Computer+Engineering" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&size=25&duration=6000&pause=2000&color=B522F7&multiline=false&width=435&lines=Gianmarco+Russo;NLP%7CComputer+Vision%7CML+for+CyberSec;" alt="Typing SVG" /></a>
 </a>
 </br>
 <a href="https://violet-gae-65.tiiny.site">
@@ -13,7 +13,7 @@
 <br/> 
 
 * :open_book: MSc in Data Science @ [University of Milan-Bicocca](https://www.unimib.it/graduate/data-science)
-*  :open_book: Bsc in Computer Engineering 
+*  :open_book: BSc in Computer Engineering 
 * :scroll: Research for my Master Thesis: Unsupervised Machine Learning for intrusion detection systems in distributed systems
 
 
