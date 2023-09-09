@@ -11,8 +11,8 @@
 </a>
 
 <br/> 
-* 💫 Check out my [Portfolio](https://grusso98.github.io/grusso-minimal-portfolio/)!
-  
+
+* 💫 Check out my [Portfolio](https://grusso98.github.io/grusso-minimal-portfolio/)! 
 * :open_book: MSc in Data Science @ [University of Milan-Bicocca](https://www.unimib.it/graduate/data-science)
 *  :open_book: BSc in Computer Engineering 
 * :scroll: Research for my Master Thesis: Unsupervised Machine Learning for intrusion detection systems in distributed systems
