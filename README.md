@@ -13,7 +13,8 @@
 <br/> 
 
 * Data Scientist @ Allianz
-* 💫 Check out my [Portfolio](https://grusso98.github.io/grusso-minimal-portfolio/)! 
+* 💫 Check out my [Portfolio](https://grusso98.github.io/grusso-minimal-portfolio/)!
+* :open_book: Studying for a II level Master in Big Data Science @ [Politecnico di Milano](https://www.polimi.it/)
 * :open_book: MSc in Data Science @ [University of Milan-Bicocca](https://www.unimib.it/graduate/data-science)
 * :open_book: BSc in Computer Engineering 
 
