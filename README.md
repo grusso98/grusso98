@@ -3,10 +3,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Arial&size=25&duration=6000&pause=2000&color=B522F7&multiline=false&width=435&lines=Gianmarco+Russo;NLP%7CComputer+Vision%7CML+for+CyberSec;" alt="Typing SVG" /></a>
 </a>
 </br>
-<a href="https://violet-gae-65.tiiny.site">
+<a href="https://cvgianmarcorussoeng.tiiny.site/">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="mailto:g.russo91@campus.unimib.it">
+<a href="mailto:sezc.gianmarco.russo@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
@@ -36,8 +36,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=grusso98&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=grusso98&icon=0&color=0)](https://visitcount.itsvg.in)
