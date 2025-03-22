@@ -26,6 +26,8 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![ClearML](https://img.shields.io/badge/ClearML-%234ea94b.svg?style=for-the-badge&logo=clearml&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23F55261.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%234ea94b.svg?style=for-the-badge&logo=chromadb&logoColor=white)
