@@ -1,10 +1,10 @@
 <p align="center">
 <a href="https://github.com/grusso98">
     <img src="https://readme-typing-svg.demolab.com?font=Arial&size=25&duration=6000&pause=2000&color=B522F7&multiline=false&width=435&lines=Gianmarco+Russo;NLP%7CComputer+Vision%7CML+for+CyberSec;" alt="Typing SVG" /></a>
+<br>
 <a href="mailto:sezc.gianmarco.russo@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
 <br/> 
 
 * Data Scientist @ Allianz
